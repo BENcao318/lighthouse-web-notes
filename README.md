@@ -5,4 +5,6 @@
 
 ## Sumary
 
-This repository contains all of the notes taken by Ben for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Ben](https://github.com/BENcao318/lighthouse-web-notes) for the Lighthouse Labs Web Development Bootcamp.
+
+Lighthouse-web-notes https://github.com/BENcao318/lighthouse-web-notes
